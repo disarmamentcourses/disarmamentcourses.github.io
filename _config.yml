@@ -1,0 +1,5 @@
+remote_theme: pages-themes/slate
+plugins:
+- jekyll-remote-theme
+title: "Science Disarmament Courses"
+description: "A collection of university courses on nuclear disarmament"
