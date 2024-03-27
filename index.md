@@ -1,5 +1,7 @@
 This website is intended to support and expand courses on nuclear disarmament
-with a considerable science component, aimed mainly at STEM students.
+with a considerable natural science component, aimed at students of natural
+sciences, technology, engineering, and mathematics, but also of social sciences
+and humanities.
 We want to systematically collect information about existing courses and make
 it available to other lecturers who may be interested in taking up such
 teaching.
@@ -13,11 +15,6 @@ If you are interested in courses that focus on a political science approach,
 see, e.g., the teaching resources offered by the [EU Non-Proliferation and
 Disarmament
 Consortium](https://www.nonproliferation.eu/education-resources/teaching-resources/).
-
-## Reusing Material
-All information on this website is licensed under __INSERT LICENSE__.
-Feel free to reuse it, providing that you indicate the author name(s) and the
-license.
 
 ## Courses
 _Click on the lecture title to access the corresponding syllabus_
@@ -37,9 +34,21 @@ War](docs/de-Dortmund_1.pdf) | TU Dortmund University, Physics Dept. | J. Altman
 Aachen University, Physics Dept. | M. Göttsche |
 | [Science for Nuclear Arms Control](docs/de-Aachen_2.pdf) | RWTH Aachen University, Physics Dept. | M. Göttsche |
 
+## Expanding the List of Courses
+If you like your course to be added, kindly send an email to [Jürgen
+Altmann](mailto:juergen.altmann@tu-dortmund.de).
+
 ## About the Authors
 The authors of this website are:
 - Jürgen Altmann, TU Dortmund University, Germany;
   [juergen.altmann@tu-dortmund.de](mailto:juergen.altmann@tu-dortmund.de)
 - Max Schalz, RWTH Aachen University, Germany;
   [schalz@nvd.rwth-aachen.de](mailto:schalz@nvd.rwth-aachen.de)
+
+## Reusing Material
+The copyright for the course descriptions rests with the respective authors.
+[Natural Sciences Disarmament Courses](https://disarmamentcourses.github.io)
+© 2024 by Jürgen Altmann and Max Schalz is licensed under [CC BY-NC-ND
+4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+![](imgs/by-nc-nd.png)
