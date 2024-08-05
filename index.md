@@ -21,7 +21,7 @@ _Click on the lecture title to access the corresponding syllabus_
 
 | Title | Institution | Lecturer |
 |---|---|---|
-| [Natural Science, Nuclear Energy, and Disarmament in Nigeria](docs/ng-Maiduguri_1.pdf) | University of Maiduguri, Dept. of Physics | D. S. Balami, J. Simon, Y.H. Ngadda, M. Hassan |
+| [Natural Science, Nuclear Energy, and Disarmament in Nigeria](docs/ng-Maiduguri_1.pdf) | University of Maiduguri, Dept. Physics | D. S. Balami, J. Simon, Y.H. Ngadda, M. Hassan |
 | [Armi nucleari, Disarmo e Proliferazione nucleare](docs/it-Milano_1.pdf) | Università di Milano, Dept. Physics | P. Cotta-Ramusino, E. Parisini |
 | [Cybersecurity and cyberwarfare](docs/it-Bologna_1.pdf) | University of Bologna, Political and Social Science Dept. | G. P. Siroli, G. Giacomello |
 | [Chemical & Biological Weapons](docs/it-Bologna_2.pdf) | University of Bologna, Dept. Chemistry | E. Parisini |
@@ -33,6 +33,7 @@ _Click on the lecture title to access the corresponding syllabus_
 | [Physics and Technology of the Verification of Arms-Limitation Agreements](docs/de-Dortmund_2.pdf) | TU Dortmund University, Physics Dept. | J. Altmann |
 | [Approaches to Current Arms Control Challenges](docs/de-Aachen_1.pdf) | RWTH Aachen University, Physics Dept. | M. Göttsche |
 | [Science for Nuclear Arms Control](docs/de-Aachen_2.pdf) | RWTH Aachen University, Physics Dept. | M. Göttsche |
+| [Nuclear Hazard and Disarmament](docs/in-Chennai_1.pdf) | B.S. Abdur Rahman Crescent Institute of Science and Technology, Dept. Physics | Mohamed Sheik Sirajuddeen |
 
 ## Expanding the List of Courses
 If you like your course to be added, kindly send an email to [Jürgen
