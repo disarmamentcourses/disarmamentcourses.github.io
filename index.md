@@ -32,6 +32,7 @@ _Click on the lecture title to access the corresponding syllabus_
 | [Science, Armament and Disarmament – From the Atom Bomb to Cyber War](docs/de-Dortmund_1.pdf) | TU Dortmund University, Physics Dept. | J. Altmann |
 | [Physics and Technology of the Verification of Arms-Limitation Agreements](docs/de-Dortmund_2.pdf) | TU Dortmund University, Physics Dept. | J. Altmann |
 | [Approaches to Current Arms Control Challenges](docs/de-Aachen_1.pdf) | RWTH Aachen University, Physics Dept. | M. Göttsche |
+| [Science for Nuclear Arms Control](docs/de-Darmstadt_1.pdf) | TU Darmstadt, Physics Dept. | M. Göttsche |
 | [Nuclear Hazard and Disarmament](docs/in-Chennai_1.pdf) | B.S. Abdur Rahman Crescent Institute of Science and Technology, Dept. Physics | Mohamed Sheik Sirajuddeen |
 
 ## Expanding the List of Courses
